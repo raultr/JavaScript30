@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,5 +5,7 @@
 	<title>Hola</title>
 </head>
 <body>
-	#JavaScript30 Inicia el reto
+	<h1>#JavaScript30 Inicia el reto</h1>
+	<a href="https://raultr.github.io/JavaScript30/01-DrumKit/">01-DrumKit</a>
 </body>
+</html>
